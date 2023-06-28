@@ -1,0 +1,7 @@
+path: '/Users/p/Documents/Code/VIRAT/VIRAT_Ground_Dataset/Custom/'
+train: 'train/images'
+val: 'valid/images'
+    
+# class names
+names:
+    0: 'Person'
